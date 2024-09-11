@@ -1,4 +1,4 @@
-# Personally Identifiable Information (PII) Detection in Educational Data
+# Personally Identifiable Information (PII) Detection in Educational Data | University of Chicago
 
 This project focuses on **automated PII detection** in educational datasets using **natural language processing (NLP)** techniques to ensure privacy while enabling the creation of high-quality, public datasets for research.
 
@@ -11,7 +11,7 @@ This project focuses on **automated PII detection** in educational datasets usin
 - [Market Opportunities](#market-opportunities)
 
 ## Project Overview
-This project was developed as part of the **Data Mining Principles Final Project** in collaboration with **Vanderbilt University** and **The Learning Agency Lab's Kaggle Competition**. We aim to automate the detection and cleansing of **personally identifiable information (PII)** such as student names and sensitive details in educational datasets. This ensures that the datasets can be publicly shared without compromising privacy.
+This project was developed as part of the **Data Mining Principles Final Project**. We aim to automate the detection and cleansing of **personally identifiable information (PII)** such as student names and sensitive details in educational datasets. This ensures that the datasets can be publicly shared without compromising privacy.
 
 **Motivation**: PII in educational data restricts the availability of high-quality public datasets. Manual detection is costly and unscalable. Our goal is to revolutionize this process by automating PII detection using NLP techniques, particularly **Named Entity Recognition (NER)** models.
 
